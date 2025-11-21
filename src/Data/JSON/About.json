@@ -1,0 +1,48 @@
+{
+  "experiences": [
+    {
+      "title": "Saisonnier agricole",
+      "company": "Domaine Jalabert",
+      "period": "2020, 2021, 2022",
+      "description": "Castreur de maïs, cueilleur de carottes et d'oignons"
+    },
+    {
+      "title": "Petite mission freelance",
+      "company": "Moi-même",
+      "period": "2023 - Present",
+      "description": "Prise de mission par bouche-à-oreille tout type selon mes capacités et compétences."
+    },
+    {
+      "title": "Projet personnel lucratif",
+      "company": "Moi-même",
+      "period": "2023 - Présent",
+      "description": "Différents projets à but lucratif en cours de réalisation et de déploiement prochain."
+    },
+    {
+      "title": "Hôte de caisse Drive",
+      "company": "McDonald's",
+      "period": "2025 - Présent",
+      "description": "Prise de commande, encaissement et montage de commande."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bac général",
+      "school": "Jules Fil Carcassonne",
+      "period": "2022 - 2023",
+      "description": "-Math -Sciences de l'ingénieur (1er) -NSI"
+    },
+    {
+      "degree": "L1 Licence informatique FLEX",
+      "school": "Paul Sabatier Toulouse",
+      "period": "2023 - 2024",
+      "description": "La licence ne m'a pas plu à cause de la théorie & transition vers IUT info."
+    },
+    {
+      "degree": "IUT informatique",
+      "school": "Paul Sabatier Toulouse",
+      "period": "2024 - 2025",
+      "description": "Souhait d'une formation RNCP en dev *."
+    }
+  ]
+}

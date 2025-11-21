@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Try to bot Root.me",
+    "description": "Ça n’a pas réussi longtemps, 57 challenges validés après ban pour cheat",
+    "tech": "-js -puppeteer -shell -proxychain",
+    "image": "./Images/projects/rootme.png",
+    "github": null,
+    "live": "https://www.root-me.org/Rakou-460844?lang=fr",
+    "date": "2023"
+  },
+  {
+    "title": "World resell Vinted. FR",
+    "description": "Développeur missionné pour la création d'un wrapper API Vinted vers websocket to client web pour un \"bot 0 délai\" Vinted.",
+    "tech": "-go -js -ws -redis -py -shell -proxychain -mongoDb",
+    "image": "./Images/projects/worldresell.png",
+    "github": null,
+    "live": "https://www.worldresell.fr/",
+    "date": "2024"
+  },
+  {
+    "title": "Portfolio pour IUT info.",
+    "description": "Création de mon premier portfolio pour E-candidat passerelle vers l'IUT info.",
+    "tech": "-react -tailwind",
+    "image": "./Images/projects/portfoliov1.png",
+    "github": "https://github.com/rakou-fr/portfoliov2",
+    "live": null,
+    "date": "2024"
+  },
+  {
+    "title": "Vintzen resell Vinted",
+    "description": "Développeur second backend, gestion et distribution de l'algorithme wrapper API Vinted to client websocket. Projet down",
+    "tech": "-go -ws -js -puppeteer -redis -mongoDb",
+    "image": "./Images/projects/vintzen.png",
+    "github": null,
+    "live": "https://vintzen.fr/",
+    "date": "2024"
+  },
+  {
+    "title": "Retools",
+    "description": "Projet à but lucratif, chef de projet, solution & outils logiciels pour le resell Vinted : étude de marché, comptabilité, gestion de stock, facturation, suivi colis, estimation.",
+    "tech": "-py -shell -js -react -tailwind -chart.js -puppeteer -mongoDb",
+    "image": "./Images/projects/retools.png",
+    "github": null,
+    "live": null,
+    "date": "En cours de développement"
+  },
+  {
+    "title": "Rebet IA",
+    "description": "Projet à but lucratif, chef de projet, scrapper chatbot IA to client ws, prompt engineering pour rapports pronostiques sur de futurs matchs sportifs.",
+    "tech": "-py -shell -js -ws -proxychain -puppeteer -mongoDb",
+    "image": "./Images/projects/Rebet.png",
+    "github": null,
+    "live": "https://app.bet-analytix.com/bankroll/1435399",
+    "date": "En cours de développement"
+  },
+    {
+    "title": "Avis Hello Mcdo, Franchisé",
+    "description": "Avis Hello Mcdo dynamique et selon besoin, et rapport statistique",
+    "tech": "-js -py -react -tailwind -puppeteer",
+    "image": "./Images/projects/hellomcdo.png",
+    "github": null,
+    "live": null,
+    "date": "En cours à la franchise 0206"
+  }
+]
