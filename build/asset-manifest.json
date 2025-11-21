@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rakou-portfolio/static/css/main.9d77f071.css",
+    "main.js": "/rakou-portfolio/static/js/main.072091fb.js",
+    "index.html": "/rakou-portfolio/index.html",
+    "main.9d77f071.css.map": "/rakou-portfolio/static/css/main.9d77f071.css.map",
+    "main.072091fb.js.map": "/rakou-portfolio/static/js/main.072091fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d77f071.css",
+    "static/js/main.072091fb.js"
+  ]
+}

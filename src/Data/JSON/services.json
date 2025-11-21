@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "https://cdn-icons-png.flaticon.com/512/3527/3527491.png",
+    "title": "Devis & Appel",
+    "description": "N'importe le projet, compte-rendu et rapport.",
+    "price": "Gratuit"
+  },
+  {
+    "icon": "https://cdn3.iconfinder.com/data/icons/illustricon-tech/512/browser.development-512.png",
+    "title": "Développement Frontend",
+    "description": "Création de sites modernes, rapides et responsives de type : Landing page, Vitrine, Portfolio ...",
+    "price": "À partir de 50€"
+  },
+  {
+    "icon": "https://icon-library.com/images/frontend-icon/frontend-icon-0.jpg",
+    "title": "Développement Frontend & Backend",
+    "description": "Création de sites modernes, rapides et responsives de type : CRM, Dashboard, Panel, Web app ...",
+    "price": "À partir de 150€"
+  },
+  {
+    "icon": "https://cdn.sanity.io/images/599r6htc/regionalized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png",
+    "title": "Design Figma",
+    "description": "Création de designs modernes",
+    "price": "À partir de 35€"
+  },
+  {
+    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968756.png",
+    "title": "Bot Discord",
+    "description": "Bot Discord simple & Bot Discord avec backend",
+    "price": "À partir de 20€"
+  },
+  {
+    "icon": "https://cdn-icons-png.flaticon.com/512/7018/7018556.png",
+    "title": "Maintenance & Support & Mise à jour",
+    "description": "Uniquement pour la clientèle",
+    "price": "À partir de 5€"
+  }
+]
