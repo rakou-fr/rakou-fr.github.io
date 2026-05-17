@@ -83,6 +83,12 @@ export default function Home() {
               Voir mes projets
             </Link>
             <Link
+              to="/services"
+              className="px-6 py-3 bg-[#f9c5c5] text-[#1c1714] text-sm font-semibold tracking-wide hover:bg-[#f5b5b5] transition-colors duration-200"
+            >
+              Mes services
+            </Link>
+            <Link
               to="/contact"
               className="px-6 py-3 border border-[#3a2e2a] text-[#a89a94] text-sm tracking-wide hover:border-[#f9c5c5]/30 hover:text-[#f9c5c5] transition-all duration-200"
             >

@@ -18,7 +18,20 @@
       "detail": "Selon la complexité"
     },
     "color": "#f9c5c5",
-    "popular": false
+    "popular": false,
+    "quoteOptions": [
+      { "id": "sources", "label": "Nombre de sources à scraper", "type": "select", "choices": [
+        { "label": "1 source", "multiplier": 1.0 },
+        { "label": "2–3 sources", "multiplier": 1.5 },
+        { "label": "4+ sources", "multiplier": 2.2 }
+      ]},
+      { "id": "type", "label": "Type de scraping", "type": "select", "choices": [
+        { "label": "Scraping API", "multiplier": 1.0 },
+        { "label": "Scraping web/DOM", "multiplier": 1.5 },
+        { "label": "Scraping par reconnaissance", "multiplier": 4.0 }
+      ]},
+      { "id": "rapport", "label": "Rapport automatique inclus", "type": "toggle", "extraPrice": 40 }
+    ]
   },
   {
     "id": "api",
@@ -39,7 +52,16 @@
       "detail": "Selon le périmètre"
     },
     "color": "#c5e8c5",
-    "popular": false
+    "popular": false,
+    "quoteOptions": [
+      { "id": "endpoints", "label": "Volume d'endpoints", "type": "select", "choices": [
+        { "label": "Moins de 10 routes", "multiplier": 1.0 },
+        { "label": "10–25 routes", "multiplier": 1.6 },
+        { "label": "25+ routes", "multiplier": 2.5 }
+      ]},
+      { "id": "auth", "label": "Authentification JWT", "type": "toggle", "extraPrice": 50 },
+      { "id": "ws", "label": "WebSocket temps réel", "type": "toggle", "extraPrice": 60 }
+    ]
   },
   {
     "id": "webapp",
@@ -60,7 +82,17 @@
       "detail": "Selon les fonctionnalités"
     },
     "color": "#c5d4f9",
-    "popular": true
+    "popular": true,
+    "quoteOptions": [
+      { "id": "pages", "label": "Nombre de pages", "type": "select", "choices": [
+        { "label": "1–3 pages", "multiplier": 1.0 },
+        { "label": "4–7 pages", "multiplier": 1.5 },
+        { "label": "8+ pages", "multiplier": 2.2 }
+      ]},
+      { "id": "auth", "label": "Espace membre / Auth", "type": "toggle", "extraPrice": 80 },
+      { "id": "cms", "label": "Interface d'administration", "type": "toggle", "extraPrice": 150 },
+      { "id": "smtp", "label": "Service smtp", "type": "toggle", "extraPrice": 50 }
+    ]
   },
   {
     "id": "dashboard",
@@ -81,7 +113,16 @@
       "detail": "Selon le nombre de modules"
     },
     "color": "#f9e8c5",
-    "popular": false
+    "popular": false,
+    "quoteOptions": [
+      { "id": "modules", "label": "Nombre de modules graphiques", "type": "select", "choices": [
+        { "label": "1–2 modules", "multiplier": 1.0 },
+        { "label": "3–5 modules", "multiplier": 1.5 },
+        { "label": "6+ modules", "multiplier": 2.0 }
+      ]},
+      { "id": "export", "label": "Export PDF/CSV", "type": "toggle", "extraPrice": 40 },
+      { "id": "realtime", "label": "Données temps réel (WebSocket)", "type": "toggle", "extraPrice": 70 }
+    ]
   },
   {
     "id": "maintenance",
@@ -102,28 +143,45 @@
       "detail": "ou forfait mensuel dès 150€"
     },
     "color": "#e8c5f9",
-    "popular": false
+    "popular": false,
+    "quoteOptions": [
+      { "id": "heures", "label": "Volume d'heures estimé", "type": "select", "choices": [
+        { "label": "- de 5h", "multiplier": 1 },
+        { "label": "entre 5h et 10h", "multiplier": 4 },
+        { "label": "+ de 20h", "multiplier": 7 }
+      ]},
+      { "id": "forfait", "label": "Passer en forfait mensuel (115€/mois)", "type": "toggle", "extraPrice": 0, "overridePrice": 115 }
+    ]
   },
-    {
-    "id": "Bot discord",
-    "title": "Bot discord",
-    "icon": "🤖",
-    "tagline": "Création de bot discord basique & avancé.",
+  {
+    "id": "discord",
+    "title": "Bot Discord",
+    "icon": "🎮",
+    "tagline": "Création de bot discord basique & avancé",
     "description": "Conception de bot discord basique ou avec fonctionnalités avancées backend.",
     "features": [
-      "Maitenance et support",
+      "Maintenance et support",
       "Mise à jour",
       "Petites évolutions fonctionnelles",
       "Backend possible",
       "Suivi"
     ],
-    "stack": ["Selon projet"],
+    "stack": ["Discord.js", "Node.js", "Python"],
     "price": {
       "from": 25,
       "unit": "heure",
       "detail": "ou forfait mensuel dès 150€"
     },
     "color": "#f9e8c5",
-    "popular": false
+    "popular": false,
+    "quoteOptions": [
+      { "id": "heures", "label": "Volume d'heures estimé", "type": "select", "choices": [
+        { "label": "- de 3h | Bot simple", "multiplier": 1 },
+        { "label": "entre 3h et 8h | Fonctionnalités avancées", "multiplier": 2 },
+        { "label": "+ de 15h | Bot complet + backend", "multiplier": 4 }
+      ]},
+      { "id": "backend", "label": "API/Backend dédié", "type": "toggle", "extraPrice": 50 },
+      { "id": "backend++", "label": "Moteur backend", "type": "toggle", "extraPrice": 80 }
+    ]
   }
 ]

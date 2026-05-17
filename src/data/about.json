@@ -107,6 +107,10 @@
     "gestion": {
       "title": "Gestion & organisation",
       "items": ["Coordination d'équipe", "Planification", "Répartition des tâches", "Suivi de projet"]
+    },
+    "langues": {
+      "title": "Langues",
+      "items": ["Français (niveau natif)", "Anglais (niveau professionnel)", "Hongrois (niveau natif)"]
     }
   }
 }
