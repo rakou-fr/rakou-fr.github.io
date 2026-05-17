@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #1c1714; }
+::-webkit-scrollbar-thumb { background: #3a2e2a; }
+::-webkit-scrollbar-thumb:hover { background: #5a4e4a; }
+
+/* Selection */
+::selection { background: #f9c5c530; color: #f0e8e4; }
+
+/* Smooth scrolling */
+html { scroll-behavior: smooth; }
+
+/* Line clamp utilitaire */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

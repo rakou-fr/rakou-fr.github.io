@@ -1,0 +1,128 @@
+[
+  {
+    "id": "portfolio",
+    "title": "Portfolio Personnel",
+    "company": "Projet personnel",
+    "location": "Toulouse",
+    "role": "Chef de projet",
+    "status": "actif",
+    "statusLabel": "Actuel",
+    "startDate": "2024-01",
+    "endDate": null,
+    "duration": "En cours",
+    "description": "Portfolio personnel présentation & offre de mes services en ligne. Site vitrine avec gestion de projets dynamique.",
+    "stack": ["React", "JSON", "Github Pages", "Tailwind"],
+    "stackColors": ["#f9c5c5", "#c5e8c5", "#f9e8c5", "#c5e8c5"],
+    "link": "https://rakou-fr.github.io/",
+    "github": "https://github.com/rakou-fr",
+    "images": [
+      "https://placehold.co/800x450/2a2020/f9c5c5?text=Portfolio+Preview"
+    ],
+    "highlights": []
+  },
+  {
+    "id": "restim",
+    "title": "Restim",
+    "company": "Restim",
+    "location": "Toulouse & Lyon",
+    "role": "Chef de projet",
+    "status": "en-cours",
+    "statusLabel": "En cours",
+    "startDate": "2026-03",
+    "endDate": "2026-04",
+    "duration": "Mars – Avril 2026",
+    "description": "Application d'étude de marché Vinted pour reseller. Analyse automatisée des tendances, prix et opportunités d'achat-revente.",
+    "stack": ["Node.js", "MongoDB", "React", "Tailwind", "Puppeteer", "Electron"],
+    "stackColors": ["#c5e8c5", "#c5d4f9", "#f9c5c5", "#c5e8c5", "#f9e8c5", "#e8c5f9"],
+    "link": "https://urlr.me/Zd9uXn",
+    "github": null,
+    "images": [
+      "https://placehold.co/800x450/2a2020/c5e8c5?text=Restim+App"
+    ],
+    "highlights": ["30 bêta-testeurs"]
+  },
+  {
+    "id": "mcdo",
+    "title": "Review Bot Hello Mcdo",
+    "company": "McDonald's",
+    "location": "Toulouse",
+    "role": "Développeur Freelance",
+    "status": "termine",
+    "statusLabel": "Fini",
+    "startDate": "2025-09",
+    "endDate": null,
+    "duration": "Sept. 2025 →",
+    "description": "Automatisation d'avis HelloMcdo dynamique et rapport statistique. Bot de collecte et analyse d'avis clients avec génération de rapports PDF automatisés.",
+    "stack": ["Python", "Puppeteer", "Node.js", "TkInter"],
+    "stackColors": ["#c5d4f9", "#f9e8c5", "#c5e8c5", "#e8c5f9"],
+    "link": "https://github.com/rakou-fr/Review-Bot-Hello-Mcdo",
+    "github": "https://github.com/rakou-fr/Review-Bot-Hello-Mcdo",
+    "images": [
+      "https://placehold.co/800x450/2a2020/c5d4f9?text=Review+Bot+Preview"
+    ],
+    "highlights": ["Vendu à 2 franchises"]
+  },
+  {
+    "id": "worldresell",
+    "title": "WorldResell API Wrapper",
+    "company": "WorldResell",
+    "location": "Lyon",
+    "role": "Développeur Freelance",
+    "status": "termine",
+    "statusLabel": "Fini",
+    "startDate": "2024-03",
+    "endDate": "2024-09",
+    "duration": "Mars – Sept. 2024",
+    "description": "Wrapper API Vinted vers client WebSocket. Système temps réel permettant à des revendeurs d'accéder aux données Vinted via WebSocket avec gestion des sessions.",
+    "stack": ["Golang", "Python", "MongoDB", "WebSocket", "Express", "REST API"],
+    "stackColors": ["#c5d4f9", "#c5e8c5", "#c5d4f9", "#f9c5c5", "#f9e8c5", "#c5d4f9"],
+    "link": "https://www.worldresell.fr/",
+    "github": null,
+    "images": [
+      "https://placehold.co/800x450/2a2020/f9e8c5?text=WorldResell+App"
+    ],
+    "highlights": ["15 000 membres", "Changement de propriétaire"]
+  },
+  {
+    "id": "retools",
+    "title": "Retools",
+    "company": "Retools",
+    "location": "Toulouse",
+    "role": "Chef de projet",
+    "status": "pause",
+    "statusLabel": "En pause",
+    "startDate": "2024-02",
+    "endDate": null,
+    "duration": "Fév. 2024 →",
+    "description": "App d'estimation, tendances, facturation, comptabilité, gestion de stock, étude de marché, suivi colis et publicité. Suite complète pour revendeurs Vinted professionnels.",
+    "stack": ["React", "Tailwind", "Python", "Node.js", "Docker", "MongoDB", "ChartJS", "Puppeteer"],
+    "stackColors": ["#f9c5c5", "#c5e8c5", "#c5d4f9", "#c5e8c5", "#f9e8c5", "#c5d4f9", "#f9c5c5", "#f9e8c5"],
+    "link": "https://rakou-fr.github.io/",
+    "github": null,
+    "images": [
+      "https://placehold.co/800x450/2a2020/e8c5f9?text=Retools+Dashboard"
+    ],
+    "highlights": ["1 700 membres"]
+  },
+  {
+    "id": "rebet",
+    "title": "Rebet – Chatbot IA Sportif",
+    "company": "Rebet",
+    "location": "Toulouse",
+    "role": "Chef de projet",
+    "status": "abandonne",
+    "statusLabel": "Abandonné",
+    "startDate": "2024-01",
+    "endDate": null,
+    "duration": "Jan. 2024 →",
+    "description": "Scrapper IA chatbot via client WebSocket, prompt engineering, pronostique sportif. Système de paris sportifs assisté par IA avec analyse statistique en temps réel.",
+    "stack": ["Python", "FastAPI", "MongoDB", "Docker", "Puppeteer", "Shell"],
+    "stackColors": ["#c5d4f9", "#c5e8c5", "#c5d4f9", "#f9e8c5", "#f9e8c5", "#e8c5f9"],
+    "link": "https://app.bet-analytix.com/bankroll/1435399",
+    "github": null,
+    "images": [
+      "https://placehold.co/800x450/2a2020/c5e8c5?text=Rebet+Bot"
+    ],
+    "highlights": ["Win rate 74.53%", "ROI 25.74%", "Cote moy. 1.741"]
+  }
+]

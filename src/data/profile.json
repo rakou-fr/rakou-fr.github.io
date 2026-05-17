@@ -1,0 +1,28 @@
+{
+  "name": "Rakou",
+  "title": "Développeur Web Fullstack Junior",
+  "subtitle": "Alternant Informatique · BTS SIO SLAM · Sept. 2026",
+  "tagline": "Développeur web fullstack junior avec expérience en freelance. Candidatant pour une alternance en septembre 2026, BTS SIO SLAM. Je crée des trucs.",
+  "avatar": "https://avatars.githubusercontent.com/rakou-fr",
+  "contact": {
+    "email": "raton.mod@gmail.com",
+    "website": "https://rakou-fr.github.io",
+    "github": "https://github.com/rakou-fr"
+  },
+  "languages": [
+    { "name": "Français", "level": "Natif" },
+    { "name": "Hongrois", "level": "Natif" },
+    { "name": "Anglais", "level": "B2/C1" }
+  ],
+  "strengths": [
+    "Autodidacte",
+    "Ponctuel",
+    "Sociable",
+    "Passionné",
+    "Polyvalent",
+    "Grande compréhension",
+    "Humain"
+  ],
+  "interests": ["Développement", "Nature", "Jeux vidéo", "Moto", "Sport", "Réseaux sociaux"],
+  "permis": "A1 · Véhiculé"
+}

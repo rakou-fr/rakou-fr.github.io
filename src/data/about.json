@@ -1,0 +1,112 @@
+{
+  "experiences": [
+    {
+      "id": "portfolio-freelance",
+      "role": "Chef de projet – Portfolio",
+      "company": "Projet personnel",
+      "location": "Toulouse",
+      "startDate": "2024-01",
+      "endDate": null,
+      "type": "freelance",
+      "description": "Portfolio personnel présentation & offre de mes services en ligne.",
+      "stack": ["React", "JSON", "Github Pages", "Tailwind"]
+    },
+    {
+      "id": "restim",
+      "role": "Chef de projet",
+      "company": "Restim",
+      "location": "Toulouse & Lyon",
+      "startDate": "2026-03",
+      "endDate": "2026-04",
+      "type": "freelance",
+      "description": "Application d'étude de marché Vinted pour reseller.",
+      "stack": ["Node.js", "MongoDB", "React", "Tailwind", "Puppeteer", "Electron"]
+    },
+    {
+      "id": "mcdo",
+      "role": "Développeur Freelance",
+      "company": "McDonald's",
+      "location": "Toulouse",
+      "startDate": "2025-09",
+      "endDate": null,
+      "type": "freelance",
+      "description": "Automatisation d'avis HelloMcdo dynamique et rapport statistique.",
+      "stack": ["Python", "Puppeteer", "Node.js", "TkInter"]
+    },
+    {
+      "id": "worldresell",
+      "role": "Développeur Freelance",
+      "company": "WorldResell",
+      "location": "Lyon",
+      "startDate": "2024-03",
+      "endDate": "2024-09",
+      "type": "freelance",
+      "description": "Wrapper API Vinted vers client WebSocket.",
+      "stack": ["Golang", "Python", "MongoDB", "WebSocket", "Express", "REST API"]
+    },
+    {
+      "id": "retools",
+      "role": "Chef de projet",
+      "company": "Retools",
+      "location": "Toulouse",
+      "startDate": "2024-02",
+      "endDate": null,
+      "type": "projet",
+      "description": "App d'estimation, tendances, facturation, comptabilité, gestion de stock, étude de marché, suivi colis et publicité.",
+      "stack": ["React", "Tailwind", "Python", "Node.js", "Docker", "MongoDB", "ChartJS", "Puppeteer"]
+    },
+    {
+      "id": "rebet",
+      "role": "Chef de projet",
+      "company": "Rebet",
+      "location": "Toulouse",
+      "startDate": "2024-01",
+      "endDate": null,
+      "type": "projet",
+      "description": "Scrapper IA chatbot via client WebSocket, prompt engineering, pronostique sportif.",
+      "stack": ["Python", "FastAPI", "MongoDB", "Docker", "Puppeteer", "Shell"]
+    }
+  ],
+  "education": [
+    {
+      "id": "iut",
+      "degree": "IUT Informatique — 1ère année",
+      "school": "Paul Sabatier",
+      "location": "Toulouse",
+      "startDate": "2025-01",
+      "endDate": "2025-08",
+      "description": "Entrée en semestre 2",
+      "icon": "graduation"
+    },
+    {
+      "id": "licence",
+      "degree": "Licence Flex Informatique — L1",
+      "school": "Paul Sabatier UT3",
+      "location": "Toulouse",
+      "startDate": "2023-09",
+      "endDate": null,
+      "description": "Réorientation IUT en semestre 2",
+      "icon": "book"
+    },
+    {
+      "id": "bac",
+      "degree": "Baccalauréat Général",
+      "school": "Lycée Jules Fil",
+      "location": "Carcassonne",
+      "startDate": "2022-01",
+      "endDate": "2023-01",
+      "description": "Maths, NSI & Sciences de l'Ingénieur (1er)",
+      "icon": "school"
+    }
+  ],
+  "skills": {
+    "relationnel": {
+      "title": "Relationnel",
+      "items": ["Travail en équipe", "Communication", "Adaptabilité", "Persévérance", "Résolution de problèmes"]
+    },
+    "gestion": {
+      "title": "Gestion & organisation",
+      "items": ["Coordination d'équipe", "Planification", "Répartition des tâches", "Suivi de projet"]
+    }
+  }
+}

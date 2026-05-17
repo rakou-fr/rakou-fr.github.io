@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "id": "frontend",
+      "label": "Frontend",
+      "color": "#f9c5c5",
+      "skills": [
+        { "name": "React", "level": 85, "detail": "SPA, hooks, state management, routing", "since": "2023" },
+        { "name": "Tailwind CSS", "level": 90, "detail": "Utility-first, responsive design, custom config", "since": "2023" },
+        { "name": "JavaScript", "level": 80, "detail": "ES6+, async/await, DOM, fetch API", "since": "2022" },
+        { "name": "HTML / CSS", "level": 90, "detail": "Sémantique, flexbox, grid, animations", "since": "2022" }
+      ]
+    },
+    {
+      "id": "backend",
+      "label": "Backend",
+      "color": "#c5e8c5",
+      "skills": [
+        { "name": "Node.js", "level": 80, "detail": "Express, API REST, middleware, websockets", "since": "2023" },
+        { "name": "Python", "level": 85, "detail": "Scripting, automatisation, FastAPI, TkInter", "since": "2023" },
+        { "name": "FastAPI", "level": 70, "detail": "API REST rapide, validation Pydantic", "since": "2024" },
+        { "name": "Golang", "level": 55, "detail": "API REST, WebSocket, performance", "since": "2024" },
+        { "name": "Express", "level": 75, "detail": "Routing, middleware, API REST", "since": "2023" }
+      ]
+    },
+    {
+      "id": "database",
+      "label": "Base de données",
+      "color": "#c5d4f9",
+      "skills": [
+        { "name": "MongoDB", "level": 80, "detail": "NoSQL, aggregations, Mongoose, Atlas", "since": "2023" },
+        { "name": "REST API", "level": 85, "detail": "Conception, consommation, documentation", "since": "2023" },
+        { "name": "WebSocket", "level": 75, "detail": "Temps réel, événements, Socket.io", "since": "2024" }
+      ]
+    },
+    {
+      "id": "tools",
+      "label": "Outils & DevOps",
+      "color": "#f9e8c5",
+      "skills": [
+        { "name": "Docker", "level": 65, "detail": "Conteneurisation, compose, images custom", "since": "2024" },
+        { "name": "Puppeteer", "level": 85, "detail": "Scraping, automatisation navigateur, tests", "since": "2023" },
+        { "name": "GitHub Pages", "level": 80, "detail": "Déploiement statique, CI/CD basique", "since": "2023" },
+        { "name": "Git / GitHub", "level": 80, "detail": "Versioning, branches, pull requests", "since": "2022" },
+        { "name": "Shell / Bash", "level": 60, "detail": "Scripts, automatisation, déploiement", "since": "2024" }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Autres",
+      "color": "#e8c5f9",
+      "skills": [
+        { "name": "Electron", "level": 60, "detail": "Applications desktop cross-platform", "since": "2025" },
+        { "name": "JSON", "level": 95, "detail": "Données, config, APIs, stockage", "since": "2022" },
+        { "name": "Linux", "level": 70, "detail": "General use of Linux and development", "since": "2020" },
+        { "name": "Windows", "level": 85, "detail": "General use of Windows and development", "since": "2015" },
+        { "name": "Blender 3D", "level": 85, "detail": "Modélisation, animation, rendu. Low Poly", "since": "2018" }
+      ]
+    }
+  ]
+}

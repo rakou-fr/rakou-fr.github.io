@@ -1,0 +1,129 @@
+[
+  {
+    "id": "scraping",
+    "title": "Scraping & Automatisation",
+    "icon": "🤖",
+    "tagline": "Collecte et traitement de données automatisés",
+    "description": "Automatisation de tâches répétitives, collecte de données web, génération de rapports. Idéal pour les e-commerçants, revendeurs, ou tout besoin de veille automatisée.",
+    "features": [
+      "Scraping ciblé (Vinted, Amazon, avis clients…)",
+      "Rapports PDF ou statistiques automatiques",
+      "Dashboard de visualisation",
+      "Alertes et notifications"
+    ],
+    "stack": ["Python", "Puppeteer", "Node.js"],
+    "price": {
+      "from": 90,
+      "unit": "projet",
+      "detail": "Selon la complexité"
+    },
+    "color": "#f9c5c5",
+    "popular": false
+  },
+  {
+    "id": "api",
+    "title": "API & Backend",
+    "icon": "⚙️",
+    "tagline": "APIs robustes et performantes",
+    "description": "Conception et développement d'APIs REST ou WebSocket. Connexion de services, gestion des données, temps réel. Solutions scalables avec MongoDB.",
+    "features": [
+      "API REST complète (CRUD)",
+      "WebSocket temps réel",
+      "Authentification JWT",
+      "Documentation incluse"
+    ],
+    "stack": ["Node.js", "Express", "MongoDB", "Python", "FastAPI"],
+    "price": {
+      "from": 100,
+      "unit": "projet",
+      "detail": "Selon le périmètre"
+    },
+    "color": "#c5e8c5",
+    "popular": false
+  },
+  {
+    "id": "webapp",
+    "title": "Application Web",
+    "icon": "🌐",
+    "tagline": "De l'idée au site en ligne",
+    "description": "Développement d'applications web modernes, responsive et performantes. Interface soignée avec React et Tailwind, déploiement inclus.",
+    "features": [
+      "SPA React + Tailwind",
+      "Design responsive mobile-first",
+      "Déploiement GitHub Pages ou VPS",
+      "Données JSON modifiables"
+    ],
+    "stack": ["React", "Tailwind", "Node.js"],
+    "price": {
+      "from": 150,
+      "unit": "projet",
+      "detail": "Selon les fonctionnalités"
+    },
+    "color": "#c5d4f9",
+    "popular": true
+  },
+  {
+    "id": "dashboard",
+    "title": "Dashboard & Analytics",
+    "icon": "📊",
+    "tagline": "Visualisez vos données en temps réel",
+    "description": "Tableaux de bord personnalisés pour suivre vos KPIs, ventes, stocks ou statistiques. Interface claire et interactive.",
+    "features": [
+      "Graphiques interactifs (ChartJS)",
+      "Données temps réel",
+      "Export PDF / CSV",
+      "Filtres et période personnalisables"
+    ],
+    "stack": ["React", "ChartJS", "MongoDB", "Node.js"],
+    "price": {
+      "from": 175,
+      "unit": "projet",
+      "detail": "Selon le nombre de modules"
+    },
+    "color": "#f9e8c5",
+    "popular": false
+  },
+  {
+    "id": "maintenance",
+    "title": "Maintenance & Support",
+    "icon": "🛠️",
+    "tagline": "Je m'occupe de la technique, vous du business",
+    "description": "Suivi, corrections de bugs, mises à jour et petites évolutions sur vos projets existants. Disponibilité et réactivité garanties.",
+    "features": [
+      "Corrections de bugs rapides",
+      "Mises à jour de dépendances",
+      "Petites évolutions fonctionnelles",
+      "Rapport mensuel d'activité"
+    ],
+    "stack": ["Selon projet"],
+    "price": {
+      "from": 50,
+      "unit": "heure",
+      "detail": "ou forfait mensuel dès 150€"
+    },
+    "color": "#e8c5f9",
+    "popular": false
+  },
+    {
+    "id": "Bot discord",
+    "title": "Bot discord",
+    "icon": "🤖",
+    "tagline": "Création de bot discord basique & avancé.",
+    "description": "Conception de bot discord basique ou avec fonctionnalités avancées backend.",
+    "features": [
+      "Maitenance et support",
+      "Mise à jour",
+      "Petites évolutions fonctionnelles",
+      "Backend possible",
+      "Suivi"
+    ],
+    "stack": ["Selon projet"],
+    "price": {
+      "from": 25,
+      "unit": "heure",
+      "detail": "ou forfait mensuel dès 150€"
+    },
+    "color": "#f9e8c5",
+    "popular": false
+  }
+]
